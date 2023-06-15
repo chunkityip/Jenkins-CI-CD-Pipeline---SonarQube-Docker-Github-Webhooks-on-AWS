@@ -9,7 +9,8 @@ A html download form freecss.com
 ![image](https://github.com/chunkityip/Jenkins-CI-CD-Pipeline---SonarQube-Docker-Github-Webhooks-on-AWS/assets/47329780/9aae1fc4-33dd-4c7a-8ff4-b70b48b75825)
 
 SonarQube
-![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe9e27e1-ac7d-4140-99d9-41e3e1205caa/Untitled.png)
+
+![image](https://github.com/chunkityip/Jenkins-CI-CD-Pipeline---SonarQube-Docker-Github-Webhooks-on-AWS/assets/47329780/12a249fa-7237-423d-bea8-60e42c43fd5a)
 
 
 My three EC2 Instances:
