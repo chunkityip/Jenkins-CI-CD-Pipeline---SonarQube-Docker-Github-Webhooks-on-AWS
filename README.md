@@ -17,6 +17,11 @@ SonarQube
 
 ![image](https://github.com/chunkityip/Jenkins-CI-CD-Pipeline---SonarQube-Docker-Github-Webhooks-on-AWS/assets/47329780/12a249fa-7237-423d-bea8-60e42c43fd5a)
 
+Docker Server
+
+![image](https://github.com/chunkityip/Jenkins-CI-CD-Pipeline---SonarQube-Docker-Github-Webhooks-on-AWS/assets/47329780/a03922b0-9ce9-4e75-b6df-eb2e005b9a55)
+
+
 
 My three EC2 Instances:
 
