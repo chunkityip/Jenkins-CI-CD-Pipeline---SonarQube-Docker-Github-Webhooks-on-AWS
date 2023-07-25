@@ -1,4 +1,4 @@
-# Jenkins-CI-CD-Pipeline---SonarQube-Docker-Github-Webhooks-on-AWS
+# Jenkins CI/CD Pipeline & SonarQube & Docker (Github-Webhooks-on-AWS)
 
 This is a project demonstrate how to set up a Jenkins CI/CD pipeline using Github, Sonarqube, and Docker on an AWS EC2 instance. It is my daily task in Fannie Mae
 
